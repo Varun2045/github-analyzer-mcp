@@ -60,7 +60,23 @@ Ask Claude things like:
 | `get_recruiter_summary` | Polished paragraph for hiring decisions |
 
 ## 📸 Demo
-<!-- Add a screenshot of Claude Desktop using the tool here -->
+
+### ✅ MCP Server Connected & Running
+![Server Running](screenshots/server-running.png)
+
+### 🔍 Analyzing Linus Torvalds' Profile
+![Torvalds Analysis](screenshots/torvalds-analysis.png)
+![Torvalds Analysis 2](screenshots/torvalds-analysis-2.png)
+
+### ⚖️ Comparing Two Developers
+![Compare Developers](screenshots/compare-developers.png)
+
+### 📋 Recruiter Summary Output
+![Recruiter Summary](screenshots/recruiter-summary.png)
+
+### 👤 Analyzing My Own Profile
+![Varun Analysis](screenshots/varun-analysis.png)
+![Varun Analysis 2](screenshots/varun-analysis-2.png)
 
 ## 📄 License
 MIT
